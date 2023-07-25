@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.searchicon{
+    position: relative;
+    right: 40px;
+}
+
+/* Responsive CSS */
+
+@media screen and (max-width: 640px) {
+    .searchbox{
+        display: none;
+    }
+}
